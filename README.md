@@ -32,6 +32,11 @@ rm -rf navicat15-premium-cs
 ```
 yay -S capstone
 ```
+## ubuntu安装capstone
+
+```
+sudo apt install libcapstone-dev
+```
 
 ## 安装 keystone
 
@@ -60,11 +65,22 @@ sudo ldconfig
 ```
 yay -S rapidjson
 ```
+## ubuntu安装rapidjson
+
+```
+sudo apt install rapidjson-dev
+```
 
 ## 安装 openssl
 
 ```
 yay -S openssl
+```
+
+## ubuntu 安装openssl
+
+```
+sudo apt-get install libssl-dev
 ```
 
 ## 编译安装
