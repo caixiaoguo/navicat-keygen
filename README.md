@@ -32,7 +32,7 @@ rm -rf navicat15-premium-cs
 ```
 yay -S capstone
 ```
-## ubuntu安装capstone
+> ubuntu安装capstone
 
 ```
 sudo apt install libcapstone-dev
@@ -65,7 +65,7 @@ sudo ldconfig
 ```
 yay -S rapidjson
 ```
-## ubuntu安装rapidjson
+> ubuntu安装rapidjson
 
 ```
 sudo apt install rapidjson-dev
@@ -77,7 +77,7 @@ sudo apt install rapidjson-dev
 yay -S openssl
 ```
 
-## ubuntu 安装openssl
+> ubuntu 安装openssl
 
 ```
 sudo apt-get install libssl-dev
@@ -251,7 +251,7 @@ Press ENTER to continue or Ctrl + C to abort.
 ```
 yay -S appimagetool
 ```
-###直接下载打包工具的安装包
+### 直接下载打包工具的安装包
 
 ```
 wget 'https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage'
