@@ -251,6 +251,11 @@ Press ENTER to continue or Ctrl + C to abort.
 ```
 yay -S appimagetool
 ```
+###直接下载打包工具的安装包
+
+```
+wget 'https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage'
+```
 
 ## 打包
 
